@@ -1,4 +1,4 @@
-# Security Operations Center (Cybersecurity) 
+# Security Operations Center 
 
 Notes, lab write-ups, and reference material from my ongoing work in Security Operations Center (SOC) fundamentals — built while training on TryHackMe.
 
