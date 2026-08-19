@@ -11,7 +11,6 @@ Transitioning into cybersecurity from a microbiology background, applying the sa
 - 🎯 Currently building toward a Master's in Cybersecurity
 
 ## What's in this repo
-## What's in this repo
 
 | Folder | Contents |
 |---|---|
