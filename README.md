@@ -11,8 +11,12 @@ Transitioning into cybersecurity from a microbiology background, applying the sa
 - 🎯 Currently building toward a Master's in Cybersecurity
 
 ## What's in this repo
+## What's in this repo
 
+| Folder | Contents |
+|---|---|
 | `/tryhackme` | Room write-ups and lab notes |
+
 
 
 ## Why this repo exists
